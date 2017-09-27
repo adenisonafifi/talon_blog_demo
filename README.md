@@ -10,7 +10,7 @@ cd talon_blog_demo
 mix deps.get && cd assets && npm install && cd .. && mix ecto.setup && mix phx.server
 ```
 
-Visit `http://localhost:4000/talon/blogs` in your browser.
+Visit `http://localhost:4000/admin` in your browser.
 
 ## Steps Taken to Create this Project
 
